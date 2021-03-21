@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amandasimo
 - 👀 I’m interested in ...design, interactive installations, art, architecture, smart cities ...
 - 🌱 I’m currently learning ...how to code :) (HTLM, CSS, Javascript, for now).
-- 💞️ I’m looking to collaborate on ...an application that improve people's interactions in the city
+- 💞️ I’m looking to collaborate on ...an application that improves people's interactions in the city. 
 - 📫 How to reach me ...just write me an email: amandasimo92@gmail.com
 
 <!---
